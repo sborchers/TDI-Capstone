@@ -5,4 +5,5 @@ A real dataset with listing characteristics and reviews for over 38,000 Airbnb l
 
 The datasets used were obtained from Inside Airbnb, published by Murray Cox.
 
+Link to Dashboard:
 https://public.tableau.com/app/profile/stephanie.borchers/viz/SuccessPredictionforAirbnbListings/Dashboard1?publish=yes
